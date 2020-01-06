@@ -2,3 +2,18 @@ baseURL = "http://brendan.tendrich.net/"
 languageCode = "en-us"
 title = "Brendan Tendrich"
 theme = "vncnt-hugo"
+
+[params]
+  author = "Brendan Tendrich"
+  email = "brendan@tendrich.net"
+  description = "Landing Page"
+  bio = "Hi there..."
+  avatar = "img/avatar.jpg"
+  favicon = "img/favicon.ico"
+  error404 = "There is no such page."
+
+  [params.contact]
+#    github = "https://github.com/btendrich"
+#    instagram = "https://instagram.com/btendric"
+#    twitter = "https://twitter.com/jdoe"
+#    ello = ""
