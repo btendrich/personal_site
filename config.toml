@@ -1,0 +1,4 @@
+baseURL = "http://brendan.tendrich.net/"
+languageCode = "en-us"
+title = "Brendan Tendrich"
+theme = "vncnt-hugo"
